@@ -6,7 +6,7 @@
 
 ## 🧠 Giới thiệu
 
-Xin chào! Mình là một sinh viên/kỹ sư (bạn sửa theo vai trò thật) đang theo đuổi lĩnh vực thiết kế **vi mạch số**, **AI accelerator**, và các giải pháp phần cứng tối ưu cho trí tuệ nhân tạo.
+Xin chào! Mình là một sinh viên đang theo đuổi lĩnh vực thiết kế **vi mạch số**, **AI accelerator**, và các giải pháp phần cứng tối ưu cho trí tuệ nhân tạo.
 
 **FunFenghuang** là nơi mình chia sẻ:
 - Các mini project về thiết kế mạch (Verilog/SystemVerilog, VHDL, Chisel...)
@@ -50,10 +50,9 @@ Xin chào! Mình là một sinh viên/kỹ sư (bạn sửa theo vai trò thật
 
 ## 📬 Liên hệ
 
-📧 Email: yourname@email.com  
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
+📧 Email: 
+💼 LinkedIn:
+🌐 Portfolio: 
 ---
 
 > **“Hardware is the new software.”** – Andreessen Horowitz
